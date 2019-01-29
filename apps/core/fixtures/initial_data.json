@@ -1,0 +1,75 @@
+[
+    {
+        "pk": 1,
+        "model": "core.docclase",
+        "fields": {
+            "desc_doc_clase": "Propio",
+            "cod_doc_clase": "P"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.docclase",
+        "fields": {
+            "desc_doc_clase": "Ajeno",
+            "cod_doc_clase": "A"
+        }
+    },
+    {
+        "pk": 0,
+        "model": "core.sexo",
+        "fields": {
+            "desc_sexo": "Ambos",
+            "cod_sexo": "A"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "core.sexo",
+        "fields": {
+            "desc_sexo": "Masculino",
+            "cod_sexo": "M"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.sexo",
+        "fields": {
+            "desc_sexo": "Femenino",
+            "cod_sexo": "F"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.sexo",
+        "fields": {
+            "desc_sexo": "Empresa",
+            "cod_sexo": "E"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "core.unidadmedida",
+        "fields": {
+            "nombre": "Unidad",
+            "abrev": "Unid."
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.unidadmedida",
+        "fields": {
+            "nombre": "Kilometros",
+            "abrev": "Km"
+        }
+    },
+
+    {
+        "pk": 1,
+        "model": "core.provincia",
+        "fields": {
+            "cod_prov": "06",
+            "desc_prov": "Entre R\u00edos"
+        }
+    }
+]

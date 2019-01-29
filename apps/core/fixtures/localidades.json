@@ -1,0 +1,2172 @@
+[
+    {
+        "pk": 1,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Arroyo Bar\u00fa",
+            "cod_loc": "010",
+            "departamento": 1,
+            "cod_postal": 3269
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Col\u00f3n",
+            "cod_loc": "020",
+            "departamento": 1,
+            "cod_postal": 3280
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Hugues",
+            "cod_loc": "030",
+            "departamento": 1,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 4,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Hambis",
+            "cod_loc": "040",
+            "departamento": 1,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 5,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Hocker",
+            "cod_loc": "050",
+            "departamento": 1,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 6,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "La Clarita",
+            "cod_loc": "060",
+            "departamento": 1,
+            "cod_postal": 3269
+        }
+    },
+    {
+        "pk": 7,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo Cazes",
+            "cod_loc": "070",
+            "departamento": 1,
+            "cod_postal": 3269
+        }
+    },
+    {
+        "pk": 8,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo Liebig's",
+            "cod_loc": "080",
+            "departamento": 1,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 9,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Jos\u00e9",
+            "cod_loc": "090",
+            "departamento": 1,
+            "cod_postal": 3283
+        }
+    },
+    {
+        "pk": 10,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Ubajay",
+            "cod_loc": "100",
+            "departamento": 1,
+            "cod_postal": 3287
+        }
+    },
+    {
+        "pk": 11,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa  Elisa",
+            "cod_loc": "110",
+            "departamento": 1,
+            "cod_postal": 3256
+        }
+    },
+    {
+        "pk": 12,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Calabacilla",
+            "cod_loc": "010",
+            "departamento": 2,
+            "cod_postal": 3207
+        }
+    },
+    {
+        "pk": 13,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Clodomiro Ledesma",
+            "cod_loc": "020",
+            "departamento": 2,
+            "cod_postal": 3201
+        }
+    },
+    {
+        "pk": 14,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Ayu\u00ed",
+            "cod_loc": "030",
+            "departamento": 2,
+            "cod_postal": 3201
+        }
+    },
+    {
+        "pk": 15,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia General Roca",
+            "cod_loc": "040",
+            "departamento": 2,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 16,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Yeru\u00e1",
+            "cod_loc": "050",
+            "departamento": 2,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 17,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Concordia",
+            "cod_loc": "060",
+            "departamento": 2,
+            "cod_postal": 3200
+        }
+    },
+    {
+        "pk": 18,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "El Redom\u00f3n",
+            "cod_loc": "070",
+            "departamento": 2,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 19,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Yeru\u00e1",
+            "cod_loc": "080",
+            "departamento": 2,
+            "cod_postal": 3214
+        }
+    },
+    {
+        "pk": 20,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "La Criolla",
+            "cod_loc": "090",
+            "departamento": 2,
+            "cod_postal": 3212
+        }
+    },
+    {
+        "pk": 21,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Los Charr\u00faas",
+            "cod_loc": "100",
+            "departamento": 2,
+            "cod_postal": 3212
+        }
+    },
+    {
+        "pk": 22,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Nueva Escocia",
+            "cod_loc": "110",
+            "departamento": 2,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 23,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Osvaldo Magnasco",
+            "cod_loc": "120",
+            "departamento": 2,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 24,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pedernal",
+            "cod_loc": "130",
+            "departamento": 2,
+            "cod_postal": 3203
+        }
+    },
+    {
+        "pk": 25,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Puerto Yeru\u00e1",
+            "cod_loc": "140",
+            "departamento": 2,
+            "cod_postal": 3201
+        }
+    },
+    {
+        "pk": 26,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Brasilera",
+            "cod_loc": "010",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 27,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Protestante",
+            "cod_loc": "020",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 28,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Salto",
+            "cod_loc": "030",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 29,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea San Francisco",
+            "cod_loc": "040",
+            "departamento": 3,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 30,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Spatzenkutter",
+            "cod_loc": "050",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 31,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Valle Mar\u00eda",
+            "cod_loc": "060",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 32,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Ensayo",
+            "cod_loc": "070",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 33,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Diamante",
+            "cod_loc": "080",
+            "departamento": 3,
+            "cod_postal": 3105
+        }
+    },
+    {
+        "pk": 34,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Camps",
+            "cod_loc": "090",
+            "departamento": 3,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 35,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "General Alvear",
+            "cod_loc": "100",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 36,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "General Racedo",
+            "cod_loc": "110",
+            "departamento": 3,
+            "cod_postal": 3114
+        }
+    },
+    {
+        "pk": 37,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "General Ram\u00edrez",
+            "cod_loc": "120",
+            "departamento": 3,
+            "cod_postal": 3164
+        }
+    },
+    {
+        "pk": 38,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Paraje La Virgen",
+            "cod_loc": "130",
+            "departamento": 3,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 39,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Puerto Las Cuevas",
+            "cod_loc": "140",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 40,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Libertador San Mart\u00edn",
+            "cod_loc": "150",
+            "departamento": 3,
+            "cod_postal": 3103
+        }
+    },
+    {
+        "pk": 41,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Chajar\u00ed",
+            "cod_loc": "010",
+            "departamento": 4,
+            "cod_postal": 3228
+        }
+    },
+    {
+        "pk": 42,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Alemana",
+            "cod_loc": "020",
+            "departamento": 4,
+            "cod_postal": 3228
+        }
+    },
+    {
+        "pk": 43,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Ensanche Sauce",
+            "cod_loc": "030",
+            "departamento": 4,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 44,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia La Argentina",
+            "cod_loc": "040",
+            "departamento": 4,
+            "cod_postal": 3118
+        }
+    },
+    {
+        "pk": 45,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Pe\u00f1a",
+            "cod_loc": "050",
+            "departamento": 4,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 46,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Santa Mar\u00eda",
+            "cod_loc": "060",
+            "departamento": 4,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 47,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Federaci\u00f3n",
+            "cod_loc": "070",
+            "departamento": 4,
+            "cod_postal": 3206
+        }
+    },
+    {
+        "pk": 48,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Los Conquistadores",
+            "cod_loc": "080",
+            "departamento": 4,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 49,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Jaime de la Frontera",
+            "cod_loc": "090",
+            "departamento": 4,
+            "cod_postal": 3185
+        }
+    },
+    {
+        "pk": 50,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Pedro",
+            "cod_loc": "100",
+            "departamento": 4,
+            "cod_postal": 3272
+        }
+    },
+    {
+        "pk": 51,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Santa Ana",
+            "cod_loc": "110",
+            "departamento": 4,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 52,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa del Rosario",
+            "cod_loc": "120",
+            "departamento": 4,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 53,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Conscripto Bernardi",
+            "cod_loc": "010",
+            "departamento": 5,
+            "cod_postal": 3188
+        }
+    },
+    {
+        "pk": 54,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "El Cimarr\u00f3n",
+            "cod_loc": "020",
+            "departamento": 5,
+            "cod_postal": 3188
+        }
+    },
+    {
+        "pk": 55,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Federal",
+            "cod_loc": "030",
+            "departamento": 5,
+            "cod_postal": 3180
+        }
+    },
+    {
+        "pk": 56,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Nueva Vizcaya",
+            "cod_loc": "040",
+            "departamento": 5,
+            "cod_postal": 3112
+        }
+    },
+    {
+        "pk": 57,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sauce de Luna",
+            "cod_loc": "050",
+            "departamento": 5,
+            "cod_postal": 3144
+        }
+    },
+    {
+        "pk": 58,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Jos\u00e9 de Feliciano",
+            "cod_loc": "010",
+            "departamento": 6,
+            "cod_postal": 3183
+        }
+    },
+    {
+        "pk": 59,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San V\u00edctor",
+            "cod_loc": "020",
+            "departamento": 6,
+            "cod_postal": 3191
+        }
+    },
+    {
+        "pk": 60,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Asunci\u00f3n",
+            "cod_loc": "010",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 61,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Lazo",
+            "cod_loc": "020",
+            "departamento": 7,
+            "cod_postal": 2841
+        }
+    },
+    {
+        "pk": 62,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "General Galarza",
+            "cod_loc": "030",
+            "departamento": 7,
+            "cod_postal": 2843
+        }
+    },
+    {
+        "pk": 63,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gualeguay",
+            "cod_loc": "040",
+            "departamento": 7,
+            "cod_postal": 2840
+        }
+    },
+    {
+        "pk": 64,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Puerto Ruiz",
+            "cod_loc": "050",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 65,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea San Antonio",
+            "cod_loc": "010",
+            "departamento": 8,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 66,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea San Juan",
+            "cod_loc": "020",
+            "departamento": 8,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 67,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Enrique Carb\u00f3",
+            "cod_loc": "030",
+            "departamento": 8,
+            "cod_postal": 2852
+        }
+    },
+    {
+        "pk": 68,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Faustino M. Parera",
+            "cod_loc": "040",
+            "departamento": 8,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 69,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "General Almada",
+            "cod_loc": "050",
+            "departamento": 8,
+            "cod_postal": 2820
+        }
+    },
+    {
+        "pk": 70,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gilbert",
+            "cod_loc": "060",
+            "departamento": 8,
+            "cod_postal": 2828
+        }
+    },
+    {
+        "pk": 71,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gualeguaych\u00fa",
+            "cod_loc": "070",
+            "departamento": 8,
+            "cod_postal": 2846
+        }
+    },
+    {
+        "pk": 72,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Irazusta",
+            "cod_loc": "080",
+            "departamento": 8,
+            "cod_postal": 2852
+        }
+    },
+    {
+        "pk": 73,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Larroque",
+            "cod_loc": "090",
+            "departamento": 8,
+            "cod_postal": 2854
+        }
+    },
+    {
+        "pk": 74,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo General Belgrano",
+            "cod_loc": "100",
+            "departamento": 8,
+            "cod_postal": 2820
+        }
+    },
+    {
+        "pk": 75,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Urdinarrain",
+            "cod_loc": "110",
+            "departamento": 8,
+            "cod_postal": 2827
+        }
+    },
+    {
+        "pk": 76,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Arroyo Mart\u00ednez",
+            "cod_loc": "010",
+            "departamento": 9,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 77,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Ceibas",
+            "cod_loc": "020",
+            "departamento": 9,
+            "cod_postal": 2823
+        }
+    },
+    {
+        "pk": 78,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Ibicuy",
+            "cod_loc": "030",
+            "departamento": 9,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 79,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "M\u00e9danos",
+            "cod_loc": "040",
+            "departamento": 9,
+            "cod_postal": 2848
+        }
+    },
+    {
+        "pk": 80,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "\u00d1ancay",
+            "cod_loc": "050",
+            "departamento": 9,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 81,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Paranacito",
+            "cod_loc": "060",
+            "departamento": 9,
+            "cod_postal": 2823
+        }
+    },
+    {
+        "pk": 82,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Bovril",
+            "cod_loc": "010",
+            "departamento": 10,
+            "cod_postal": 3218
+        }
+    },
+    {
+        "pk": 83,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Avigdor",
+            "cod_loc": "020",
+            "departamento": 10,
+            "cod_postal": 3142
+        }
+    },
+    {
+        "pk": 84,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "El Solar",
+            "cod_loc": "030",
+            "departamento": 10,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 85,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "La Paz",
+            "cod_loc": "040",
+            "departamento": 10,
+            "cod_postal": 3190
+        }
+    },
+    {
+        "pk": 86,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Piedras Blancas",
+            "cod_loc": "050",
+            "departamento": 10,
+            "cod_postal": 3129
+        }
+    },
+    {
+        "pk": 87,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo Arr\u00faa",
+            "cod_loc": "060",
+            "departamento": 10,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 88,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Gustavo",
+            "cod_loc": "070",
+            "departamento": 10,
+            "cod_postal": 3191
+        }
+    },
+    {
+        "pk": 89,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Santa Elena",
+            "cod_loc": "080",
+            "departamento": 10,
+            "cod_postal": 3192
+        }
+    },
+    {
+        "pk": 90,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sir Leonard",
+            "cod_loc": "090",
+            "departamento": 10,
+            "cod_postal": 3142
+        }
+    },
+    {
+        "pk": 91,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aranguren",
+            "cod_loc": "010",
+            "departamento": 11,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 92,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Betbeder",
+            "cod_loc": "020",
+            "departamento": 11,
+            "cod_postal": 3156
+        }
+    },
+    {
+        "pk": 93,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Don Crist\u00f3bal",
+            "cod_loc": "030",
+            "departamento": 11,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 94,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Febr\u00e9",
+            "cod_loc": "040",
+            "departamento": 11,
+            "cod_postal": 3151
+        }
+    },
+    {
+        "pk": 95,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Hern\u00e1ndez",
+            "cod_loc": "050",
+            "departamento": 11,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 96,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Lucas Gonz\u00e1lez",
+            "cod_loc": "060",
+            "departamento": 11,
+            "cod_postal": 3158
+        }
+    },
+    {
+        "pk": 97,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Nogoy\u00e1",
+            "cod_loc": "070",
+            "departamento": 11,
+            "cod_postal": 3109
+        }
+    },
+    {
+        "pk": 98,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "XX de Setiembre",
+            "cod_loc": "080",
+            "departamento": 11,
+            "cod_postal": 3158
+        }
+    },
+    {
+        "pk": 99,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Mar\u00eda Luisa",
+            "cod_loc": "010",
+            "departamento": 12,
+            "cod_postal": 3114
+        }
+    },
+    {
+        "pk": 100,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea San Rafael",
+            "cod_loc": "020",
+            "departamento": 12,
+            "cod_postal": 3116
+        }
+    },
+    {
+        "pk": 101,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Santa Mar\u00eda",
+            "cod_loc": "030",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 102,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Aldea Santa Rosa",
+            "cod_loc": "040",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 103,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Cerrito",
+            "cod_loc": "050",
+            "departamento": 12,
+            "cod_postal": 3109
+        }
+    },
+    {
+        "pk": 104,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Avellaneda",
+            "cod_loc": "060",
+            "departamento": 12,
+            "cod_postal": 3107
+        }
+    },
+    {
+        "pk": 105,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Crespo",
+            "cod_loc": "070",
+            "departamento": 12,
+            "cod_postal": 3116
+        }
+    },
+    {
+        "pk": 106,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "El Palenque",
+            "cod_loc": "080",
+            "departamento": 12,
+            "cod_postal": 3118
+        }
+    },
+    {
+        "pk": 107,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "El Pingo",
+            "cod_loc": "090",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 108,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Hasenkamp",
+            "cod_loc": "100",
+            "departamento": 12,
+            "cod_postal": 3134
+        }
+    },
+    {
+        "pk": 109,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Hernandarias",
+            "cod_loc": "110",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 110,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "La Picada",
+            "cod_loc": "120",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 111,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Las Tunas",
+            "cod_loc": "130",
+            "departamento": 12,
+            "cod_postal": 3111
+        }
+    },
+    {
+        "pk": 112,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Mar\u00eda Grande",
+            "cod_loc": "140",
+            "departamento": 12,
+            "cod_postal": 3133
+        }
+    },
+    {
+        "pk": 113,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Oro Verde",
+            "cod_loc": "150",
+            "departamento": 12,
+            "cod_postal": 3100
+        }
+    },
+    {
+        "pk": 114,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Paran\u00e1",
+            "cod_loc": "160",
+            "departamento": 12,
+            "cod_postal": 3100
+        }
+    },
+    {
+        "pk": 115,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo Bellocq (Est. Las Garzas)",
+            "cod_loc": "170",
+            "departamento": 12,
+            "cod_postal": 3136
+        }
+    },
+    {
+        "pk": 116,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo Brugo",
+            "cod_loc": "180",
+            "departamento": 12,
+            "cod_postal": 3125
+        }
+    },
+    {
+        "pk": 117,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pueblo General San Mart\u00edn",
+            "cod_loc": "190",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 118,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Benito",
+            "cod_loc": "200",
+            "departamento": 12,
+            "cod_postal": 3107
+        }
+    },
+    {
+        "pk": 119,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sauce Montrull",
+            "cod_loc": "210",
+            "departamento": 12,
+            "cod_postal": 3118
+        }
+    },
+    {
+        "pk": 120,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sauce Pinto",
+            "cod_loc": "220",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 121,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Segu\u00ed",
+            "cod_loc": "230",
+            "departamento": 12,
+            "cod_postal": 3117
+        }
+    },
+    {
+        "pk": 122,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sosa",
+            "cod_loc": "240",
+            "departamento": 12,
+            "cod_postal": 3133
+        }
+    },
+    {
+        "pk": 123,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Tabossi",
+            "cod_loc": "250",
+            "departamento": 12,
+            "cod_postal": 3111
+        }
+    },
+    {
+        "pk": 124,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Tezanos Pinto",
+            "cod_loc": "260",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 125,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Viale",
+            "cod_loc": "270",
+            "departamento": 12,
+            "cod_postal": 3109
+        }
+    },
+    {
+        "pk": 126,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Fontana",
+            "cod_loc": "280",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 127,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Gdor. Luis F. Etchevehere",
+            "cod_loc": "290",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 128,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Urquiza",
+            "cod_loc": "300",
+            "departamento": 12,
+            "cod_postal": 3113
+        }
+    },
+    {
+        "pk": 129,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "General Campos",
+            "cod_loc": "010",
+            "departamento": 13,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 130,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Salvador",
+            "cod_loc": "020",
+            "departamento": 13,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 131,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Altamirano Sur",
+            "cod_loc": "010",
+            "departamento": 14,
+            "cod_postal": 3174
+        }
+    },
+    {
+        "pk": 132,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Durazno",
+            "cod_loc": "020",
+            "departamento": 14,
+            "cod_postal": 3177
+        }
+    },
+    {
+        "pk": 133,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Arroyo Cl\u00e9",
+            "cod_loc": "030",
+            "departamento": 14,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 134,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gobernador Echag\u00fce",
+            "cod_loc": "040",
+            "departamento": 14,
+            "cod_postal": 3845
+        }
+    },
+    {
+        "pk": 135,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gobernador Mansilla",
+            "cod_loc": "050",
+            "departamento": 14,
+            "cod_postal": 3845
+        }
+    },
+    {
+        "pk": 136,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gobernador Sol\u00e1",
+            "cod_loc": "060",
+            "departamento": 14,
+            "cod_postal": 3176
+        }
+    },
+    {
+        "pk": 137,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Guardamonte",
+            "cod_loc": "070",
+            "departamento": 14,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 138,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Las Guachas",
+            "cod_loc": "080",
+            "departamento": 14,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 139,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Maci\u00e1",
+            "cod_loc": "090",
+            "departamento": 14,
+            "cod_postal": 3177
+        }
+    },
+    {
+        "pk": 140,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Rosario del Tala",
+            "cod_loc": "100",
+            "departamento": 14,
+            "cod_postal": 3174
+        }
+    },
+    {
+        "pk": 141,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Basavilbaso",
+            "cod_loc": "010",
+            "departamento": 15,
+            "cod_postal": 3170
+        }
+    },
+    {
+        "pk": 142,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Caseros",
+            "cod_loc": "020",
+            "departamento": 15,
+            "cod_postal": 3262
+        }
+    },
+    {
+        "pk": 143,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia El\u00eda",
+            "cod_loc": "030",
+            "departamento": 15,
+            "cod_postal": 3261
+        }
+    },
+    {
+        "pk": 144,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Concepci\u00f3n del Uruguay",
+            "cod_loc": "040",
+            "departamento": 15,
+            "cod_postal": 3172
+        }
+    },
+    {
+        "pk": 145,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estancia San Pedro",
+            "cod_loc": "050",
+            "departamento": 15,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 146,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Herrera",
+            "cod_loc": "060",
+            "departamento": 15,
+            "cod_postal": 3272
+        }
+    },
+    {
+        "pk": 147,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Las Moscas",
+            "cod_loc": "070",
+            "departamento": 15,
+            "cod_postal": 3244
+        }
+    },
+    {
+        "pk": 148,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "L\u00edbaros",
+            "cod_loc": "080",
+            "departamento": 15,
+            "cod_postal": 3244
+        }
+    },
+    {
+        "pk": 149,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "1\u00ba de Mayo",
+            "cod_loc": "090",
+            "departamento": 15,
+            "cod_postal": 3263
+        }
+    },
+    {
+        "pk": 150,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pronunciamiento",
+            "cod_loc": "100",
+            "departamento": 15,
+            "cod_postal": 3263
+        }
+    },
+    {
+        "pk": 151,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Rocamora",
+            "cod_loc": "110",
+            "departamento": 15,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 152,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Santa Anita",
+            "cod_loc": "120",
+            "departamento": 15,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 153,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Mantero",
+            "cod_loc": "130",
+            "departamento": 15,
+            "cod_postal": 3272
+        }
+    },
+    {
+        "pk": 154,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa San Justo",
+            "cod_loc": "140",
+            "departamento": 15,
+            "cod_postal": 3262
+        }
+    },
+    {
+        "pk": 155,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa San Marcial (Est. Gobernador Urquiza)",
+            "cod_loc": "150",
+            "departamento": 15,
+            "cod_postal": 3248
+        }
+    },
+    {
+        "pk": 156,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Antelo",
+            "cod_loc": "010",
+            "departamento": 16,
+            "cod_postal": 3151
+        }
+    },
+    {
+        "pk": 157,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Charig\u00fc\u00e9",
+            "cod_loc": "020",
+            "departamento": 16,
+            "cod_postal": 2100
+        }
+    },
+    {
+        "pk": 158,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Laguna del Pescado",
+            "cod_loc": "030",
+            "departamento": 16,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 159,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Molino Doll",
+            "cod_loc": "040",
+            "departamento": 16,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 160,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Rinc\u00f3n de Nogoy\u00e1",
+            "cod_loc": "050",
+            "departamento": 16,
+            "cod_postal": 3155
+        }
+    },
+    {
+        "pk": 161,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Victoria",
+            "cod_loc": "060",
+            "departamento": 16,
+            "cod_postal": 3153
+        }
+    },
+    {
+        "pk": 162,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Ra\u00edces",
+            "cod_loc": "010",
+            "departamento": 17,
+            "cod_postal": 3241
+        }
+    },
+    {
+        "pk": 163,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Ingeniero Miguel Sajaroff",
+            "cod_loc": "020",
+            "departamento": 17,
+            "cod_postal": 3246
+        }
+    },
+    {
+        "pk": 164,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Jubileo",
+            "cod_loc": "030",
+            "departamento": 17,
+            "cod_postal": 3241
+        }
+    },
+    {
+        "pk": 165,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Mojones Norte",
+            "cod_loc": "040",
+            "departamento": 17,
+            "cod_postal": 3241
+        }
+    },
+    {
+        "pk": 166,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Paso de la Laguna",
+            "cod_loc": "050",
+            "departamento": 17,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 167,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Clara",
+            "cod_loc": "060",
+            "departamento": 17,
+            "cod_postal": 3252
+        }
+    },
+    {
+        "pk": 168,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villa Dom\u00ednguez",
+            "cod_loc": "070",
+            "departamento": 17,
+            "cod_postal": 3246
+        }
+    },
+    {
+        "pk": 169,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Villaguay",
+            "cod_loc": "080",
+            "departamento": 17,
+            "cod_postal": 3240
+        }
+    },
+    {
+        "pk": 170,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Arroyo la Concepci\u00f3n",
+            "cod_loc": "120",
+            "departamento": 1,
+            "cod_postal": 3287
+        }
+    },
+    {
+        "pk": 171,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Yuquer\u00ed",
+            "cod_loc": "150",
+            "departamento": 2,
+            "cod_postal": 3214
+        }
+    },
+    {
+        "pk": 172,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estancia Grande",
+            "cod_loc": "160",
+            "departamento": 2,
+            "cod_postal": 3204
+        }
+    },
+    {
+        "pk": 173,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Isletas",
+            "cod_loc": "160",
+            "departamento": 3,
+            "cod_postal": 3164
+        }
+    },
+    {
+        "pk": 174,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Costa Grande",
+            "cod_loc": "170",
+            "departamento": 3,
+            "cod_postal": 3101
+        }
+    },
+    {
+        "pk": 175,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Grapchental",
+            "cod_loc": "180",
+            "departamento": 3,
+            "cod_postal": 3114
+        }
+    },
+    {
+        "pk": 176,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Loma Limpia",
+            "cod_loc": "060",
+            "departamento": 5,
+            "cod_postal": 3212
+        }
+    },
+    {
+        "pk": 177,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "El Cha\u00f1ar",
+            "cod_loc": "070",
+            "departamento": 5,
+            "cod_postal": 3181
+        }
+    },
+    {
+        "pk": 178,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sta. Lucia",
+            "cod_loc": "080",
+            "departamento": 5,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 179,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia la Esmeralda",
+            "cod_loc": "030",
+            "departamento": 6,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 180,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n las Mulitas",
+            "cod_loc": "040",
+            "departamento": 6,
+            "cod_postal": 3191
+        }
+    },
+    {
+        "pk": 181,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "5\u00ba Distrito el Pueblito",
+            "cod_loc": "060",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 182,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Tres Bacas",
+            "cod_loc": "070",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 183,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Gonzalez Calederan",
+            "cod_loc": "080",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 184,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Punta del Monte",
+            "cod_loc": "090",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 185,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Monte Redondo",
+            "cod_loc": "100",
+            "departamento": 7,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 186,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Brazo Largo",
+            "cod_loc": "070",
+            "departamento": 9,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 187,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Mazaruca",
+            "cod_loc": "080",
+            "departamento": 9,
+            "cod_postal": 2846
+        }
+    },
+    {
+        "pk": 188,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Estaci\u00f3n Holt",
+            "cod_loc": "090",
+            "departamento": 9,
+            "cod_postal": 2846
+        }
+    },
+    {
+        "pk": 189,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Arroyo Merlo",
+            "cod_loc": "100",
+            "departamento": 9,
+            "cod_postal": 1649
+        }
+    },
+    {
+        "pk": 190,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Alcaraz",
+            "cod_loc": "100",
+            "departamento": 10,
+            "cod_postal": 3132
+        }
+    },
+    {
+        "pk": 191,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Quebracho",
+            "cod_loc": "110",
+            "departamento": 10,
+            "cod_postal": 3192
+        }
+    },
+    {
+        "pk": 192,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Tacuaras Yacare",
+            "cod_loc": "120",
+            "departamento": 10,
+            "cod_postal": 3194
+        }
+    },
+    {
+        "pk": 193,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Ombu",
+            "cod_loc": "130",
+            "departamento": 10,
+            "cod_postal": 3190
+        }
+    },
+    {
+        "pk": 194,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Ramirez",
+            "cod_loc": "140",
+            "departamento": 10,
+            "cod_postal": 3190
+        }
+    },
+    {
+        "pk": 195,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia 3 y 14",
+            "cod_loc": "150",
+            "departamento": 10,
+            "cod_postal": 3191
+        }
+    },
+    {
+        "pk": 196,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Alcaraz Norte",
+            "cod_loc": "160",
+            "departamento": 10,
+            "cod_postal": 3138
+        }
+    },
+    {
+        "pk": 197,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Pta. Algarrobo",
+            "cod_loc": "170",
+            "departamento": 10,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 198,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Paso Telegrafo",
+            "cod_loc": "180",
+            "departamento": 10,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 199,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Yeso Oeste",
+            "cod_loc": "190",
+            "departamento": 10,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 200,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Picada Beran",
+            "cod_loc": "200",
+            "departamento": 10,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 201,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Crucesita III",
+            "cod_loc": "090",
+            "departamento": 11,
+            "cod_postal": 3151
+        }
+    },
+    {
+        "pk": 202,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Crucesita 7\u00ba y 8\u00ba",
+            "cod_loc": "100",
+            "departamento": 11,
+            "cod_postal": 3109
+        }
+    },
+    {
+        "pk": 203,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Dist. Sauce",
+            "cod_loc": "110",
+            "departamento": 11,
+            "cod_postal": 3150
+        }
+    },
+    {
+        "pk": 204,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Nueva",
+            "cod_loc": "310",
+            "departamento": 12,
+            "cod_postal": 3118
+        }
+    },
+    {
+        "pk": 205,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "La Piragua",
+            "cod_loc": "320",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 206,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Colonia Crespo",
+            "cod_loc": "330",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 207,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Las Puedras",
+            "cod_loc": "340",
+            "departamento": 12,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 208,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Curtiembre",
+            "cod_loc": "350",
+            "departamento": 12,
+            "cod_postal": 3113
+        }
+    },
+    {
+        "pk": 209,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Santa Luisa",
+            "cod_loc": "360",
+            "departamento": 12,
+            "cod_postal": 3111
+        }
+    },
+    {
+        "pk": 210,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sauce Norte",
+            "cod_loc": "110",
+            "departamento": 14,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 211,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Sauce Sur",
+            "cod_loc": "120",
+            "departamento": 14,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 212,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "San Cipriano",
+            "cod_loc": "160",
+            "departamento": 15,
+            "cod_postal": 3263
+        }
+    },
+    {
+        "pk": 213,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Lucas Norte",
+            "cod_loc": "090",
+            "departamento": 17,
+            "cod_postal": 3241
+        }
+    },
+    {
+        "pk": 214,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Raices Este",
+            "cod_loc": "100",
+            "departamento": 17,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 215,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Mojones Sur",
+            "cod_loc": "110",
+            "departamento": 17,
+            "cod_postal": 3241
+        }
+    },
+    {
+        "pk": 216,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Lucas Sur",
+            "cod_loc": "120",
+            "departamento": 17,
+            "cod_postal": null
+        }
+    },
+    {
+        "pk": 217,
+        "model": "core.localidad",
+        "fields": {
+            "desc_loc": "Laguna Larga",
+            "cod_loc": "130",
+            "departamento": 17,
+            "cod_postal": 3241
+        }
+    }
+]

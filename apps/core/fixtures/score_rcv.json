@@ -1,0 +1,76 @@
+[
+    {
+        "pk": 0,
+        "model": "core.diabetestipo",
+        "fields": {
+            "diab_tipo_descr": "Sin diabetes"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "core.diabetestipo",
+        "fields": {
+            "diab_tipo_descr": "Tipo 1"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.diabetestipo",
+        "fields": {
+            "diab_tipo_descr": "Tipo 2"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.diabetestipo",
+        "fields": {
+            "diab_tipo_descr": "Gestacional"
+        }
+    },
+
+    {
+        "pk": 1,
+        "model": "core.scorercvclasif",
+        "fields": {
+            "descripcion": "Riego bajo: Cambios del modo de vida y evaluar anualmente el riesgo",
+            "nombre": "Riesgo < 10 %",
+            "color": "#358F3C"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.scorercvclasif",
+        "fields": {
+            "descripcion": "Riesgo moderado: Evaluar el riego cada 6 a 12 meses",
+            "nombre": "Riesgo 10% a 20%",
+            "color": "#D8F257"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.scorercvclasif",
+        "fields": {
+            "descripcion": "Riesgo alto: Evaluar el riesgo cada 3 a 6 meses",
+            "nombre": "Riesgo 20% a 30%",
+            "color": "#DE5714"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "core.scorercvclasif",
+        "fields": {
+            "descripcion": "Riesgo muy alto: Evaluar y actualizar el riesgo en cada visita",
+            "nombre": "Riesgo 30% a <40%",
+            "color": "#E61809"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "core.scorercvclasif",
+        "fields": {
+            "descripcion": "Riesgo muy alto: Evaluar y actualizar el riesgo en cada visita",
+            "nombre": "Riesgo >= 40%",
+            "color": "#912606"
+        }
+    }
+]

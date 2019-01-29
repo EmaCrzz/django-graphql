@@ -1,0 +1,234 @@
+[
+    {
+        "pk": 1,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "DNI",
+            "desc_doc_tipo": "DOCUMENTO NACIONAL DE IDENTIDAD"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "LE",
+            "desc_doc_tipo": "LIBRETA DE ENROLAMIENTO"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "LC",
+            "desc_doc_tipo": "LIBRETA CIVICA"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "CI",
+            "desc_doc_tipo": "CEDULA IDENTIDAD"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "PAS",
+            "desc_doc_tipo": "PASAPORTE"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C01",
+            "desc_doc_tipo": "C.I. CAPITAL FEDERAL"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C02",
+            "desc_doc_tipo": "C.I. BUENOS AIRES"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C03",
+            "desc_doc_tipo": "C.I. CATAMARCA"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C04",
+            "desc_doc_tipo": "C.I. CORDOBA"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C05",
+            "desc_doc_tipo": "C.I. CORRIENTES"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C06",
+            "desc_doc_tipo": "C.I. ENTRE RIOS"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C07",
+            "desc_doc_tipo": "C.I. JUJUY"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C08",
+            "desc_doc_tipo": "C.I. LA RIOJA"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C09",
+            "desc_doc_tipo": "C.I. MENDOZA"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C10",
+            "desc_doc_tipo": "C.I. SALTA"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C11",
+            "desc_doc_tipo": "C.I. SAN JUAN"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C12",
+            "desc_doc_tipo": "C.I. SAN LUIS"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C13",
+            "desc_doc_tipo": "C.I. SANTA FE"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C14",
+            "desc_doc_tipo": "C.I. SANTIAGO DEL ESTERO"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C15",
+            "desc_doc_tipo": "C.I. TUCUMAN"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C16",
+            "desc_doc_tipo": "C.I. CHACO"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C17",
+            "desc_doc_tipo": "C.I. CHUBUT"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C18",
+            "desc_doc_tipo": "C.I. FORMOSA"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C19",
+            "desc_doc_tipo": "C.I. LA PAMPA"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C20",
+            "desc_doc_tipo": "C.I. MISIONES"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C21",
+            "desc_doc_tipo": "C.I. NEUQUEN"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C22",
+            "desc_doc_tipo": "C.I. RIO NEGRO"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C23",
+            "desc_doc_tipo": "C.I. SANTA CRUZ"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "core.doctipo",
+        "fields": {
+            "cod_doc_tipo": "C24",
+            "desc_doc_tipo": "C.I. TIERRA DEL FUEGO"
+        }
+    }
+]

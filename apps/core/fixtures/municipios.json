@@ -1,0 +1,1738 @@
+[
+    {
+        "pk": 1,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 1,
+            "desc_mun": "Arroyo Bar\u00fa"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 2,
+            "desc_mun": "Col\u00f3n"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 3,
+            "desc_mun": "Colonia Hugues"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 4,
+            "desc_mun": "Hambis"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 5,
+            "desc_mun": "Hocker"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 6,
+            "desc_mun": "La Clarita"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 7,
+            "desc_mun": "Pueblo Cazes"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 8,
+            "desc_mun": "Pueblo Liebig's"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 9,
+            "desc_mun": "San Jos\u00e9"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 10,
+            "desc_mun": "Ubajay"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 11,
+            "desc_mun": "Villa  Elisa"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 12,
+            "desc_mun": "Calabacilla"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 13,
+            "desc_mun": "Clodomiro Ledesma"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 14,
+            "desc_mun": "Colonia Ayu\u00ed"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 15,
+            "desc_mun": "Colonia General Roca"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 16,
+            "desc_mun": "Colonia Yeru\u00e1"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 17,
+            "desc_mun": "Concordia"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 18,
+            "desc_mun": "El Redom\u00f3n"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 19,
+            "desc_mun": "Estaci\u00f3n Yeru\u00e1"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 20,
+            "desc_mun": "La Criolla"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 21,
+            "desc_mun": "Los Charr\u00faas"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 22,
+            "desc_mun": "Nueva Escocia"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 23,
+            "desc_mun": "Osvaldo Magnasco"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 24,
+            "desc_mun": "Pedernal"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 25,
+            "desc_mun": "Puerto Yeru\u00e1"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 26,
+            "desc_mun": "Aldea Brasilera"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 27,
+            "desc_mun": "Aldea Protestante"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 28,
+            "desc_mun": "Aldea Salto"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 29,
+            "desc_mun": "Aldea San Francisco"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 30,
+            "desc_mun": "Aldea Spatzenkutter"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 31,
+            "desc_mun": "Aldea Valle Mar\u00eda"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 32,
+            "desc_mun": "Colonia Ensayo"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 33,
+            "desc_mun": "Diamante"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 34,
+            "desc_mun": "Estaci\u00f3n Camps"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 35,
+            "desc_mun": "General Alvear"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 36,
+            "desc_mun": "General Racedo"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 37,
+            "desc_mun": "General Ram\u00edrez"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 38,
+            "desc_mun": "Paraje La Virgen"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 39,
+            "desc_mun": "Puerto Las Cuevas"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 40,
+            "desc_mun": "Villa Libertador San Mart\u00edn"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 41,
+            "desc_mun": "Chajar\u00ed"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 42,
+            "desc_mun": "Colonia Alemana"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 43,
+            "desc_mun": "Colonia Ensanche Sauce"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 44,
+            "desc_mun": "Colonia La Argentina"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 45,
+            "desc_mun": "Colonia Pe\u00f1a"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 46,
+            "desc_mun": "Colonia Santa Mar\u00eda"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 47,
+            "desc_mun": "Federaci\u00f3n"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 48,
+            "desc_mun": "Los Conquistadores"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 49,
+            "desc_mun": "San Jaime de la Frontera"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 50,
+            "desc_mun": "San Pedro"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 51,
+            "desc_mun": "Santa Ana"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 52,
+            "desc_mun": "Villa del Rosario"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 53,
+            "desc_mun": "Conscripto Bernardi"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 54,
+            "desc_mun": "El Cimarr\u00f3n"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 55,
+            "desc_mun": "Federal"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 56,
+            "desc_mun": "Nueva Vizcaya"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 57,
+            "desc_mun": "Sauce de Luna"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 58,
+            "desc_mun": "San Jos\u00e9 de Feliciano"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 59,
+            "desc_mun": "San V\u00edctor"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 60,
+            "desc_mun": "Aldea Asunci\u00f3n"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 61,
+            "desc_mun": "Estaci\u00f3n Lazo"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 62,
+            "desc_mun": "General Galarza"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 63,
+            "desc_mun": "Gualeguay"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 64,
+            "desc_mun": "Puerto Ruiz"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 65,
+            "desc_mun": "Aldea San Antonio"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 66,
+            "desc_mun": "Aldea San Juan"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 67,
+            "desc_mun": "Enrique Carb\u00f3"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 68,
+            "desc_mun": "Faustino M. Parera"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 69,
+            "desc_mun": "General Almada"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 70,
+            "desc_mun": "Gilbert"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 71,
+            "desc_mun": "Gualeguaych\u00fa"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 72,
+            "desc_mun": "Irazusta"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 73,
+            "desc_mun": "Larroque"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 74,
+            "desc_mun": "Pueblo General Belgrano"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 75,
+            "desc_mun": "Urdinarrain"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 76,
+            "desc_mun": "Arroyo Mart\u00ednez"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 77,
+            "desc_mun": "Ceibas"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 78,
+            "desc_mun": "Ibicuy"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 79,
+            "desc_mun": "M\u00e9danos"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 80,
+            "desc_mun": "\u00d1ancay"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 81,
+            "desc_mun": "Villa Paranacito"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 82,
+            "desc_mun": "Bovril"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 83,
+            "desc_mun": "Colonia Avigdor"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 84,
+            "desc_mun": "El Solar"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 85,
+            "desc_mun": "La Paz"
+        }
+    },
+    {
+        "pk": 86,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 86,
+            "desc_mun": "Piedras Blancas"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 87,
+            "desc_mun": "Pueblo Arr\u00faa"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 88,
+            "desc_mun": "San Gustavo"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 89,
+            "desc_mun": "Santa Elena"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 90,
+            "desc_mun": "Sir Leonard"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 91,
+            "desc_mun": "Aranguren"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 92,
+            "desc_mun": "Betbeder"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 93,
+            "desc_mun": "Don Crist\u00f3bal"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 94,
+            "desc_mun": "Febr\u00e9"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 95,
+            "desc_mun": "Hern\u00e1ndez"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 96,
+            "desc_mun": "Lucas Gonz\u00e1lez"
+        }
+    },
+    {
+        "pk": 97,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 97,
+            "desc_mun": "Nogoy\u00e1"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 98,
+            "desc_mun": "XX de Setiembre"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 99,
+            "desc_mun": "Aldea Mar\u00eda Luisa"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 100,
+            "desc_mun": "Aldea San Rafael"
+        }
+    },
+    {
+        "pk": 101,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 101,
+            "desc_mun": "Aldea Santa Mar\u00eda"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 102,
+            "desc_mun": "Aldea Santa Rosa"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 103,
+            "desc_mun": "Cerrito"
+        }
+    },
+    {
+        "pk": 104,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 104,
+            "desc_mun": "Colonia Avellaneda"
+        }
+    },
+    {
+        "pk": 105,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 105,
+            "desc_mun": "Crespo"
+        }
+    },
+    {
+        "pk": 106,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 106,
+            "desc_mun": "El Palenque"
+        }
+    },
+    {
+        "pk": 107,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 107,
+            "desc_mun": "El Pingo"
+        }
+    },
+    {
+        "pk": 108,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 108,
+            "desc_mun": "Hasenkamp"
+        }
+    },
+    {
+        "pk": 109,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 109,
+            "desc_mun": "Hernandarias"
+        }
+    },
+    {
+        "pk": 110,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 110,
+            "desc_mun": "La Picada"
+        }
+    },
+    {
+        "pk": 111,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 111,
+            "desc_mun": "Las Tunas"
+        }
+    },
+    {
+        "pk": 112,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 112,
+            "desc_mun": "Mar\u00eda Grande"
+        }
+    },
+    {
+        "pk": 113,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 113,
+            "desc_mun": "Oro Verde"
+        }
+    },
+    {
+        "pk": 114,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 114,
+            "desc_mun": "Paran\u00e1"
+        }
+    },
+    {
+        "pk": 115,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 115,
+            "desc_mun": "Pueblo Bellocq (Est. Las Garzas)"
+        }
+    },
+    {
+        "pk": 116,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 116,
+            "desc_mun": "Pueblo Brugo"
+        }
+    },
+    {
+        "pk": 117,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 117,
+            "desc_mun": "Pueblo General San Mart\u00edn"
+        }
+    },
+    {
+        "pk": 118,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 118,
+            "desc_mun": "San Benito"
+        }
+    },
+    {
+        "pk": 119,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 119,
+            "desc_mun": "Sauce Montrull"
+        }
+    },
+    {
+        "pk": 120,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 120,
+            "desc_mun": "Sauce Pinto"
+        }
+    },
+    {
+        "pk": 121,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 121,
+            "desc_mun": "Segu\u00ed"
+        }
+    },
+    {
+        "pk": 122,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 122,
+            "desc_mun": "Sosa"
+        }
+    },
+    {
+        "pk": 123,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 123,
+            "desc_mun": "Tabossi"
+        }
+    },
+    {
+        "pk": 124,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 124,
+            "desc_mun": "Tezanos Pinto"
+        }
+    },
+    {
+        "pk": 125,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 125,
+            "desc_mun": "Viale"
+        }
+    },
+    {
+        "pk": 126,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 126,
+            "desc_mun": "Villa Fontana"
+        }
+    },
+    {
+        "pk": 127,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 127,
+            "desc_mun": "Villa Gdor. Luis F. Etchevehere"
+        }
+    },
+    {
+        "pk": 128,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 128,
+            "desc_mun": "Villa Urquiza"
+        }
+    },
+    {
+        "pk": 129,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 129,
+            "desc_mun": "General Campos"
+        }
+    },
+    {
+        "pk": 130,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 130,
+            "desc_mun": "San Salvador"
+        }
+    },
+    {
+        "pk": 131,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 131,
+            "desc_mun": "Altamirano Sur"
+        }
+    },
+    {
+        "pk": 132,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 132,
+            "desc_mun": "Durazno"
+        }
+    },
+    {
+        "pk": 133,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 133,
+            "desc_mun": "Estaci\u00f3n Arroyo Cl\u00e9"
+        }
+    },
+    {
+        "pk": 134,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 134,
+            "desc_mun": "Gobernador Echag\u00fce"
+        }
+    },
+    {
+        "pk": 135,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 135,
+            "desc_mun": "Gobernador Mansilla"
+        }
+    },
+    {
+        "pk": 136,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 136,
+            "desc_mun": "Gobernador Sol\u00e1"
+        }
+    },
+    {
+        "pk": 137,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 137,
+            "desc_mun": "Guardamonte"
+        }
+    },
+    {
+        "pk": 138,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 138,
+            "desc_mun": "Las Guachas"
+        }
+    },
+    {
+        "pk": 139,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 139,
+            "desc_mun": "Maci\u00e1"
+        }
+    },
+    {
+        "pk": 140,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 140,
+            "desc_mun": "Rosario del Tala"
+        }
+    },
+    {
+        "pk": 141,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 141,
+            "desc_mun": "Basavilbaso"
+        }
+    },
+    {
+        "pk": 142,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 142,
+            "desc_mun": "Caseros"
+        }
+    },
+    {
+        "pk": 143,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 143,
+            "desc_mun": "Colonia El\u00eda"
+        }
+    },
+    {
+        "pk": 144,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 144,
+            "desc_mun": "Concepci\u00f3n del Uruguay"
+        }
+    },
+    {
+        "pk": 145,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 145,
+            "desc_mun": "Estancia San Pedro"
+        }
+    },
+    {
+        "pk": 146,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 146,
+            "desc_mun": "Herrera"
+        }
+    },
+    {
+        "pk": 147,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 147,
+            "desc_mun": "Las Moscas"
+        }
+    },
+    {
+        "pk": 148,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 148,
+            "desc_mun": "L\u00edbaros"
+        }
+    },
+    {
+        "pk": 149,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 149,
+            "desc_mun": "1\u00ba de Mayo"
+        }
+    },
+    {
+        "pk": 150,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 150,
+            "desc_mun": "Pronunciamiento"
+        }
+    },
+    {
+        "pk": 151,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 151,
+            "desc_mun": "Rocamora"
+        }
+    },
+    {
+        "pk": 152,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 152,
+            "desc_mun": "Santa Anita"
+        }
+    },
+    {
+        "pk": 153,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 153,
+            "desc_mun": "Villa Mantero"
+        }
+    },
+    {
+        "pk": 154,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 154,
+            "desc_mun": "Villa San Justo"
+        }
+    },
+    {
+        "pk": 155,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 155,
+            "desc_mun": "Villa San Marcial (Est. Gobernador Urquiza)"
+        }
+    },
+    {
+        "pk": 156,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 156,
+            "desc_mun": "Antelo"
+        }
+    },
+    {
+        "pk": 157,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 157,
+            "desc_mun": "Charig\u00fc\u00e9"
+        }
+    },
+    {
+        "pk": 158,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 158,
+            "desc_mun": "Laguna del Pescado"
+        }
+    },
+    {
+        "pk": 159,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 159,
+            "desc_mun": "Molino Doll"
+        }
+    },
+    {
+        "pk": 160,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 160,
+            "desc_mun": "Rinc\u00f3n de Nogoy\u00e1"
+        }
+    },
+    {
+        "pk": 161,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 161,
+            "desc_mun": "Victoria"
+        }
+    },
+    {
+        "pk": 162,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 162,
+            "desc_mun": "Estaci\u00f3n Ra\u00edces"
+        }
+    },
+    {
+        "pk": 163,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 163,
+            "desc_mun": "Ingeniero Miguel Sajaroff"
+        }
+    },
+    {
+        "pk": 164,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 164,
+            "desc_mun": "Jubileo"
+        }
+    },
+    {
+        "pk": 165,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 165,
+            "desc_mun": "Mojones Norte"
+        }
+    },
+    {
+        "pk": 166,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 166,
+            "desc_mun": "Paso de la Laguna"
+        }
+    },
+    {
+        "pk": 167,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 167,
+            "desc_mun": "Villa Clara"
+        }
+    },
+    {
+        "pk": 168,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 168,
+            "desc_mun": "Villa Dom\u00ednguez"
+        }
+    },
+    {
+        "pk": 169,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 169,
+            "desc_mun": "Villaguay"
+        }
+    },
+    {
+        "pk": 170,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 170,
+            "desc_mun": "Arroyo la Concepci\u00f3n"
+        }
+    },
+    {
+        "pk": 171,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 171,
+            "desc_mun": "Estaci\u00f3n Yuquer\u00ed"
+        }
+    },
+    {
+        "pk": 172,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 172,
+            "desc_mun": "Estancia Grande"
+        }
+    },
+    {
+        "pk": 173,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 173,
+            "desc_mun": "Isletas"
+        }
+    },
+    {
+        "pk": 174,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 174,
+            "desc_mun": "Costa Grande"
+        }
+    },
+    {
+        "pk": 175,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 175,
+            "desc_mun": "Colonia Grapchental"
+        }
+    },
+    {
+        "pk": 176,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 176,
+            "desc_mun": "Loma Limpia"
+        }
+    },
+    {
+        "pk": 177,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 177,
+            "desc_mun": "El Cha\u00f1ar"
+        }
+    },
+    {
+        "pk": 178,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 178,
+            "desc_mun": "Sta. Lucia"
+        }
+    },
+    {
+        "pk": 179,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 179,
+            "desc_mun": "Colonia la Esmeralda"
+        }
+    },
+    {
+        "pk": 180,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 180,
+            "desc_mun": "Estaci\u00f3n las Mulitas"
+        }
+    },
+    {
+        "pk": 181,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 181,
+            "desc_mun": "5\u00ba Distrito el Pueblito"
+        }
+    },
+    {
+        "pk": 182,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 182,
+            "desc_mun": "Tres Bacas"
+        }
+    },
+    {
+        "pk": 183,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 183,
+            "desc_mun": "Gonzalez Calederan"
+        }
+    },
+    {
+        "pk": 184,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 184,
+            "desc_mun": "Punta del Monte"
+        }
+    },
+    {
+        "pk": 185,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 185,
+            "desc_mun": "Monte Redondo"
+        }
+    },
+    {
+        "pk": 186,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 186,
+            "desc_mun": "Brazo Largo"
+        }
+    },
+    {
+        "pk": 187,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 187,
+            "desc_mun": "Mazaruca"
+        }
+    },
+    {
+        "pk": 188,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 188,
+            "desc_mun": "Estaci\u00f3n Holt"
+        }
+    },
+    {
+        "pk": 189,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 189,
+            "desc_mun": "Arroyo Merlo"
+        }
+    },
+    {
+        "pk": 190,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 190,
+            "desc_mun": "Alcaraz"
+        }
+    },
+    {
+        "pk": 191,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 191,
+            "desc_mun": "Quebracho"
+        }
+    },
+    {
+        "pk": 192,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 192,
+            "desc_mun": "Tacuaras Yacare"
+        }
+    },
+    {
+        "pk": 193,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 193,
+            "desc_mun": "Ombu"
+        }
+    },
+    {
+        "pk": 194,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 194,
+            "desc_mun": "San Ramirez"
+        }
+    },
+    {
+        "pk": 195,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 195,
+            "desc_mun": "Colonia 3 y 14"
+        }
+    },
+    {
+        "pk": 196,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 196,
+            "desc_mun": "Alcaraz Norte"
+        }
+    },
+    {
+        "pk": 197,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 197,
+            "desc_mun": "Pta. Algarrobo"
+        }
+    },
+    {
+        "pk": 198,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 198,
+            "desc_mun": "Paso Telegrafo"
+        }
+    },
+    {
+        "pk": 199,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 199,
+            "desc_mun": "Yeso Oeste"
+        }
+    },
+    {
+        "pk": 200,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 200,
+            "desc_mun": "Picada Beran"
+        }
+    },
+    {
+        "pk": 201,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 201,
+            "desc_mun": "Crucesita III"
+        }
+    },
+    {
+        "pk": 202,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 202,
+            "desc_mun": "Crucesita 7\u00ba y 8\u00ba"
+        }
+    },
+    {
+        "pk": 203,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 203,
+            "desc_mun": "Dist. Sauce"
+        }
+    },
+    {
+        "pk": 204,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 204,
+            "desc_mun": "Colonia Nueva"
+        }
+    },
+    {
+        "pk": 205,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 205,
+            "desc_mun": "La Piragua"
+        }
+    },
+    {
+        "pk": 206,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 206,
+            "desc_mun": "Colonia Crespo"
+        }
+    },
+    {
+        "pk": 207,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 207,
+            "desc_mun": "Las Puedras"
+        }
+    },
+    {
+        "pk": 208,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 208,
+            "desc_mun": "Curtiembre"
+        }
+    },
+    {
+        "pk": 209,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 209,
+            "desc_mun": "Santa Luisa"
+        }
+    },
+    {
+        "pk": 210,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 210,
+            "desc_mun": "Sauce Norte"
+        }
+    },
+    {
+        "pk": 211,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 211,
+            "desc_mun": "Sauce Sur"
+        }
+    },
+    {
+        "pk": 212,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 212,
+            "desc_mun": "San Cipriano"
+        }
+    },
+    {
+        "pk": 213,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 213,
+            "desc_mun": "Lucas Norte"
+        }
+    },
+    {
+        "pk": 214,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 214,
+            "desc_mun": "Raices Este"
+        }
+    },
+    {
+        "pk": 215,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 215,
+            "desc_mun": "Mojones Sur"
+        }
+    },
+    {
+        "pk": 216,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 216,
+            "desc_mun": "Lucas Sur"
+        }
+    },
+    {
+        "pk": 217,
+        "model": "core.municipio",
+        "fields": {
+            "localidad": 217,
+            "desc_mun": "Laguna Larga"
+        }
+    }
+]

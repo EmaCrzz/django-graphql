@@ -1,0 +1,219 @@
+mutation crearPersona ($input: RelayCreatePersonaInput!){
+  relayCreatePersona(input: $input){
+    persona{
+      perId
+      apellido
+      nombre
+      fullName
+    }
+  }
+}
+{"input": {
+  "nombre": "Javier",
+  "apellido": "Segovia",
+  "nroDoc": "23456789",
+  "fecNac": "1984-02-09",
+  "docTipo": 1,
+  "sexo": 1,
+  "tipo": 1
+  }
+}
+
+
+mutation crearProfesional($input: RelayCreateProfesionalInput!){
+  relayCreateProfsional(input: $input){
+    profesional{
+      persona{
+        apellido
+        perId
+        nombre
+      }
+      nroMatricula
+      especialidad{
+        descEsp
+      }
+    }
+  }
+}
+
+{"input": {
+  "nombre": "Gabriel",
+  "apellido": "Streck",
+  "nroDoc": "35998755",
+  "fecNac": "1992-10-01",
+  "docTipo": 1,
+  "sexo": 1,
+  "tipo": 1,
+  "nroMatricula": "5854585", 
+  "especialidad": 1
+  }
+} 
+
+
+mutation crearPerDom($input: RelayCreatePerDomInput!){
+  relayCreatePerDom(input: $input){
+    perDom{
+      calle
+      nroPuerta
+      localidad{
+        descLoc
+      }
+      municipio{
+        localidad{
+          descLoc
+        }
+      }
+      persona{
+        apellido
+        nombre
+        nroDoc
+      }
+    }
+  }
+}
+
+{"input": {
+    "persona": 19,
+    "calle": "20 de junio",
+    "nroPuerta": "46",
+    "localidad": 123,
+    "municipio": 123,
+   "predeterminado": true
+  }
+}
+
+mutation updatePerDom($input: RelayUpdatePerDomInput!){
+  relayUpdatePerDom(input: $input){
+    perDom{
+      persona{
+        apellido
+        nombre
+        nroDoc
+        sexo{
+          descSexo
+        }
+      }
+      calle
+      nroPuerta
+      localidad{
+        descLoc
+      }
+    }
+  }
+}
+
+{"input": {
+  "id": 1, 
+  "persona": 20, 
+  "calle": "Enrique Carbo", 
+  "nroPuerta": "567", 
+  "localidad": 114, 
+  "municipio": 114,
+  "predeterminado": false
+}
+}
+
+mutation crearPerTel($input: RelayCreatePerTelInput!){
+  relayCreatePerTel(input: $input){
+    perTel{
+      persona{
+        apellido
+        nombre
+        nroDoc
+        sexo{
+          descSexo
+        }
+      }
+      telClasif{
+        clasificacion
+      }
+      telTipo{
+        tipo
+      }
+      fullNroTel
+    }
+  }
+}
+{"input": {
+  "persona": 20,
+  "telClasif": 1,
+  "telTipo": 1,
+  "codPais": "54",
+  "codArea": "343",
+  "nroTel": "5145795",
+  "predeterminado": true
+}}
+
+mutation updatePerTel ($input: RelayUpdatePerTelInput!){
+  relayUpdatePerTel (input: $input){
+    perTel{
+      persona{
+        apellido
+        nombre
+        nroDoc
+        fullName
+      }
+      telClasif{
+        clasificacion
+      }
+      telTipo{
+        tipo
+      }
+      fullNroTel
+    }
+  }
+}
+{"input": {
+  "id": 1,
+  "persona": 20,
+  "telClasif": 1,
+  "telTipo": 1,
+  "codPais": "54",
+  "codArea": "345",
+  "nroTel": "5111111",
+  "predeterminado": true}}
+
+mutation crearPerEmail($input: RelayCreatePerEmailInput!){
+  relayCreatePerEmail(input: $input){
+    perEmail{
+      persona{
+        apellido
+        nombre
+        nroDoc
+      }
+      emailClasif{
+        clasificacion
+      }
+      email
+    }
+  }
+}
+{"input": {
+  "persona": 20,
+  "emailClasif": 1,
+  "email": "ema_villanueva@hotmail.com",
+  "predeterminado": true
+}}
+
+mutation editarPerEmail($input: RelayUpdatePerEmailInput!){
+  relayUpdatePerEmail(input: $input){
+    perEmail{
+      persona{
+        apellido
+        nombre
+        nroDoc
+      }
+      emailClasif{
+        clasificacion
+      }
+      email
+    }
+  }
+}
+{"input": {
+  "id": 1,
+  "persona": 20,
+  "emailClasif": 1,
+  "email": "gabi_streck@hotmail.com",
+  "predeterminado": true
+}}

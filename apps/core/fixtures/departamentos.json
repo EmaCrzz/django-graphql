@@ -1,0 +1,155 @@
+[
+    {
+        "pk": 1,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "008",
+            "provincia": 1,
+            "desc_dep": "COLON"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "015",
+            "provincia": 1,
+            "desc_dep": "CONCORDIA"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "021",
+            "provincia": 1,
+            "desc_dep": "DIAMANTE"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "028",
+            "provincia": 1,
+            "desc_dep": "FEDERACION"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "035",
+            "provincia": 1,
+            "desc_dep": "FEDERAL"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "042",
+            "provincia": 1,
+            "desc_dep": "FELICIANO"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "049",
+            "provincia": 1,
+            "desc_dep": "GUALEGUAY"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "056",
+            "provincia": 1,
+            "desc_dep": "GUALEGUAYCHU"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "063",
+            "provincia": 1,
+            "desc_dep": "ISLAS"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "070",
+            "provincia": 1,
+            "desc_dep": "LA PAZ"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "077",
+            "provincia": 1,
+            "desc_dep": "NOGOYA"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "084",
+            "provincia": 1,
+            "desc_dep": "PARANA"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "088",
+            "provincia": 1,
+            "desc_dep": "SAN SALVADOR"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "091",
+            "provincia": 1,
+            "desc_dep": "TALA"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "098",
+            "provincia": 1,
+            "desc_dep": "URUGUAY"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "105",
+            "provincia": 1,
+            "desc_dep": "VICTORIA"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "core.departamento",
+        "fields": {
+            "cod_dep": "113",
+            "provincia": 1,
+            "desc_dep": "VILLAGUAY"
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "pk": 1,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "ARGENTINA/O",
+            "desc_pais": "ARGENTINA"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "URUGUAYO/A",
+            "desc_pais": "URUGUAY"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "CHILENO/A",
+            "desc_pais": "CHILE"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "PARAGUAYO/A",
+            "desc_pais": "PARAGUAY"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "PERUANO/A",
+            "desc_pais": "PERU"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "BRASILERO/A",
+            "desc_pais": "BRASIL"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "core.pais",
+        "fields": {
+            "nacionalidad": "BOLIVIANO/A",
+            "desc_pais": "BOLIVIA"
+        }
+    }
+]

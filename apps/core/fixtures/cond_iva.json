@@ -1,0 +1,42 @@
+[
+	{
+		"pk": 1,
+        "model": "core.CondIva",
+        "fields": {
+            "codigo": "CF",
+            "descripcion": "Consumidor final"
+        }
+	},
+	{
+		"pk": 2,
+        "model": "core.CondIva",
+        "fields": {
+            "codigo": "MO",
+            "descripcion": "Monotributista"
+        }
+	},
+    {
+		"pk": 3,
+        "model": "core.CondIva",
+        "fields": {
+            "codigo": "RI",
+            "descripcion": "Responsable inscripto"
+        }
+	},
+	{
+		"pk": 4,
+        "model": "core.CondIva",
+        "fields": {
+            "codigo": "EX",
+            "descripcion": "Exento"
+        }
+	},
+	{
+		"pk": 5,
+        "model": "core.CondIva",
+        "fields": {
+            "codigo": "SJ",
+            "descripcion": "Sujeto"
+        }
+	}
+]
