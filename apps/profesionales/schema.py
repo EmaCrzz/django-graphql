@@ -5,9 +5,6 @@ from graphene_django import DjangoObjectType
 from graphene_django.filter import DjangoFilterConnectionField
 from django.utils.html import escape
 
-from apps.persona.schema import (
-    PersonaModel,
-)
 from apps.profesionales.models import (
     Profesional as ProfesionalModel,
     Especialidad as EspecialidadModel
@@ -62,7 +59,6 @@ class RelayCreateProfesional(graphene.relay.ClientIDMutation):
     profesional = graphene.Field(ProfesionalNode)
     especialidad = graphene.Field(EspecialidadNode)
 
-    # datos de entrada
     class Input:
         apellido = graphene.String(required=True)
         nombre = graphene.String(required=True)
@@ -81,9 +77,7 @@ class RelayCreateProfesional(graphene.relay.ClientIDMutation):
         try:
             profesional = ProfesionalModel.objects.get(nro_matricula=input.get('nro_matricula'))
         except ProfesionalModel.DoesNotExist:
-            # creo la instancia profesional y guardo los datos
             profesional = ProfesionalModel(
-                # prof_id=persona,
                 nro_matricula=escape(input.get('nro_matricula')),
                 especialidad_id=input.get('especialidad'),
                 clasificacion_id=input.get('clasificacion'),
